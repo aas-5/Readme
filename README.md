@@ -7,7 +7,7 @@ I’m a student exploring **cybersecurity**.
 
 Right now I’m at the **beginning of my cybersecurity journey**, focusing on understanding the fundamentals before jumping into tools. My goal is to learn how systems actually work, how they communicate, and where security weaknesses appear.
 
-Long term, I want to move toward the **offensive side of cybersecurity (red team / ethical hacking)** while continuing to grow as a software developer.
+Long term, I want to move toward the **offensive side of cybersecurity**
 
 I’m currently learning step-by-step and documenting my progress as I go.
 
@@ -85,19 +85,6 @@ As I progress, I plan to start building and sharing:
 * Cybersecurity learning write-ups
 
 The goal is to **learn by building and documenting everything publicly**.
-
----
-
-## Learning Philosophy
-
-I believe the best way to learn technical skills is to:
-
-* Build projects
-* Break things and fix them
-* Document what I learn
-* Stay consistent
-
-Progress may start slow, but consistency compounds over time.
 
 ---
 
