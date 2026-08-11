@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m a student exploring **cybersecurity**.
+I’m a student exploring **Cybersecurity** and **Networking**.
 
 Right now I’m at the **beginning of my cybersecurity journey**, focusing on understanding the fundamentals before jumping into tools. My goal is to learn how systems actually work, how they communicate, and where security weaknesses appear.
 
@@ -47,11 +47,9 @@ At the moment I’m studying and practicing the fundamentals.
 
 ## Technologies & Tools I'm Learning
 
-* Python
 * C#
 * Linux
 * Networking fundamentals
-* Git & GitHub
 
 As I improve, this list will grow along with the projects I build.
 
@@ -85,13 +83,4 @@ As I progress, I plan to start building and sharing:
 * Cybersecurity learning write-ups
 
 The goal is to **learn by building and documenting everything publicly**.
-
----
-
-## Connect
-
-If you want to collaborate, learn together, or talk about technology:
-
-Instagram: **aas_5__**
-GitHub: https://github.com/aas-5
 
