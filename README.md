@@ -9,7 +9,9 @@ Right now I’m at the **beginning of my cybersecurity journey**, focusing on un
 
 Long term, I want to move toward the **offensive side of cybersecurity**
 
-I’m currently learning step-by-step and documenting my progress as I go.
+I’m currently learning step-by-step and documenting my progress as I go. 
+
+I plan on writing reports on various topics and technologies I learn along the way, those reports will be added to my Github profile as i work on them.
 
 ---
 
